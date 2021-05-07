@@ -1,6 +1,8 @@
 # K-Nearest-Neighbors
-Esse modelo trata de uma previsão que leva em conta a proximadade do ponto previsto
-A ideia é termos grupos diferentes para um determinado vetor de informações
+Esse modelo trata de uma previsão que leva em conta a proximadade do ponto previsto.
+A ideia é termos grupos diferentes para um determinado vetor de informações.
+
+No arquivo KNearestNeighbors.py há um exemplo simples para ilustrar a aplicação desse modelo.
 ### Exemplo:
 Vetor1 = [1,2,3,4,5,6] pertence ao grupo 1
 Vetor2 = [2,3,9,8,2,3] pertence ao grupo 2
