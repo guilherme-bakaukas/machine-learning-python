@@ -1,6 +1,6 @@
 # Linear Regression
 A regressão linear é um modelo muito eficaz para determinar uma melhor reta para um conjunto de pontos.
-Basicamente, a ideia é encontrar o melhor valor para o coeficiente angular 'm' da reta: x = my + b, a fim de reduzir ao máximo o erro entre a reta traçada e os pontos.
+Basicamente, a ideia é encontrar os melhores valores para os coeficientes angular 'm' e linear 'b' da reta: x = my + b, a fim de reduzir ao máximo o erro entre a reta traçada e os pontos.
 Assim, através dessa reta, é possível realizar previsões.
 
 No arquivo linearRegression.py há um exemplo prático do modelo.
